@@ -1,3 +1,4 @@
 # learn-master
-To learn Git
-This change was made in master branch not learn-b1
+# To learn Git
+# This change was made in master branch not learn-b1
+# Second change in master
