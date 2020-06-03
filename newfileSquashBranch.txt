@@ -1,6 +1,5 @@
 Add file 
 
-<<<<<<< HEAD
 new change
 
 newwst change
