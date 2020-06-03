@@ -1,3 +1,5 @@
 Just added in master branch
 
 Change in file 1
+
+Change in file 2
